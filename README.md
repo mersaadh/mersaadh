@@ -17,4 +17,7 @@ Here are some ideas to get you started:
     <img width="100%" height = "auto" src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/kathleen-booth.webp" alt="cover" />
 </div>
 <br>
-<h1 align="center">Hey there! <font color="#ff7e5f"><b>Mersad</b></font> Here!</h1>
+<h1 align="center">Hey there!, <b>Mersad</b> Here!</h1>
+
+<h3 align="center">Currently learning and exploring new things</h3>
+<h3 align="center">Student at the University of Yazd</h3>
