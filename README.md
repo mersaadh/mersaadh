@@ -39,10 +39,20 @@ Here are some ideas to get you started:
 <br>
 <img width="auto" height="46px" src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/images/social_media_text.png" alt="cover" />
 <div>
-    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/instagram.png" alt="cover" />
-    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/email.png" alt="cover" />
-    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/discord.png" alt="cover" />
-    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/telegram.png" alt="cover" />
-    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/steam.png" alt="cover" />
+    <a href="https://www.instagram.com/mersaad_h/" target="_blank">
+        <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/instagram.png" alt="Instagram" />
+    </a>
+    <a href="mailto:123.mersadhhh@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/email.png" alt="Email" />
+    </a>
+    <a href="https://discord.com/users/mersaad_h" target="_blank">
+        <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/discord.png" alt="Discord" />
+    </a>
+    <a href="https://t.me/mohammadMersad" target="_blank">
+        <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/telegram.png" alt="Telegram" />
+    </a>
+    <a href="https://steamcommunity.com/id/mersaad_h" target="_blank">
+        <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/steam.png" alt="Steam" />
+    </a>
 </div>
 </div>
