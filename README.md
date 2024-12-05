@@ -38,8 +38,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h3>Social Media:</h3>
-<img src="https://img.shields.io/badge/Telegram-@MohammadMersad-blue?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/Instagram-@mersaad_h-darkred?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Github-mersaadh-orange?style=for-the-badge"/>
-<br>
+<div>
+    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/instagram.png" alt="cover" />
+    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/email.png" alt="cover" />
+    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/discord.png" alt="cover" />
+    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/telegram.png" alt="cover" />
+    <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/steam.png" alt="cover" />
+</div>
 </div>
