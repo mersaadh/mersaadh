@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <br>
 <h1>Bₒₙⱼₒᵤᵣ!, 𝐈𝐦 <b>𝕄𝕖𝕣𝕤𝕒𝕕</b>🦆</h1>
 
-<h3>Currently learning and exploring new things</h3>
+<h3>Currently learning and exploring new things🧠</h3>
+<h4>I'm all about that old-school vibe!🧑🏻‍💻👾</h4>
 
 <br>
 
