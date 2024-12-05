@@ -19,7 +19,11 @@ Here are some ideas to get you started:
     <img width="100%" height = "auto" src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/kathleen-booth.webp" alt="cover" />
 </div>
 <br>
-<h1>Hey there!, <b>Mersad</b> Here!</h1>
+<div>
+    <img width="40%" height = "auto" src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/logo.png" alt="cover" />
+</div>
+<br>
+<h1>Bₒₙⱼₒᵤᵣ!, 𝐈𝐦 <b>𝕄𝕖𝕣𝕤𝕒𝕕</b>🦆</h1>
 
 <h3>Currently learning and exploring new things</h3>
 
@@ -37,4 +41,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Telegram-@MohammadMersad-blue?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/Instagram-@mersaad_h-darkred?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Github-mersaadh-orange?style=for-the-badge"/>
+<br>
 </div>
