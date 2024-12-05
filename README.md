@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="assembly"/>
 <br>
 <br>
-<h3>Social Media:</h3>
+<img width="auto" height="46px" src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/images/social_media_text.png" alt="cover" />
 <div>
     <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/instagram.png" alt="cover" />
     <img src="https://raw.githubusercontent.com/mersaadh/mersaadh/refs/heads/main/icons/email.png" alt="cover" />
